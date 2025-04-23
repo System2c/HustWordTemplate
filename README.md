@@ -7,4 +7,4 @@ This template is based on Microsoft Office Home and Student 2019 edition editing
 
 
 ## add
-添加了开题报告的模板
+添加了开题报告的模板；添加了外文翻译的模板；添加了本科毕业设计模板的.dotx文件。
